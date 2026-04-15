@@ -1,3 +1,7 @@
+https://www.figma.com/design/DVENBCjlqQag1S8tBPLI8q/Wireframe_de_media_fidelidade?node-id=0-1&t=OFlqHomjsgpYvNkG-1
+
+
+
 Flowfy é uma plataforma de gestão de projetos técnicos desenvolvida como parte de um projeto acadêmico, com foco em organização, produtividade e colaboração entre equipes de tecnologia.
 
 Sobre o Projeto
